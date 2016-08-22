@@ -12,4 +12,8 @@ color:
     - '#FF9800'
 layout_spectrum: 0.26162728015333414
 name: J. Austin Wrench
+navigation:
+  - name: LinkedIN
+    url: 'https://www.linkedin.com/in/austinwrench'
+    type: external
 title: Serial Entrepreneur
