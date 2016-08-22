@@ -1,19 +1,14 @@
-typography_spectrum: 0.6325683910399675
+layout_spectrum: 0.26162728015333414
+typography_spectrum: 0.3042013186495751
 color:
   brandStrength: 0.7838995447382331
   lightness: 0.616242780117318
   saturation: 0.049097699113190174
   rhythmicContrast: 0.21761038107797503
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.26162728015333414
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: J. Austin Wrench
-navigation:
-  - name: LinkedIN
-    url: 'https://www.linkedin.com/in/austinwrench'
-    type: external
-title: Serial Entrepreneur
