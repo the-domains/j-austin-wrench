@@ -1,16 +1,16 @@
-typography_spectrum: 0.6325683910399675
+layout_spectrum: 0.10188279417343438
+typography_spectrum: 0.8597573097795248
 color:
-  brandStrength: 0.7838995447382331
-  lightness: 0.616242780117318
-  saturation: 0.049097699113190174
-  rhythmicContrast: 0.21761038107797503
+  brandStrength: 0.4371771172154695
+  lightness: 0.3089827988296747
+  saturation: 0.943483391078189
+  rhythmicContrast: 0.05545779503881931
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.26162728015333414
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 author:
   name: J. Austin Wrench
   email: austinwrench@gmail.com
